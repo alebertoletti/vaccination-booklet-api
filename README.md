@@ -14,7 +14,7 @@ $ npm install
 
 ```bash
 # development
-$ Node app.js
+$ node src/app.js
 
 # Test the route (optional)
  http://localhost:3000/usuarios/
